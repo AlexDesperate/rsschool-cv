@@ -1,5 +1,5 @@
 # Александр Казючиц
-
+![фото](photoCV.jpg) 
 ## Контактная информация
 * **Email:** silversurf@rambler.ru
 * **GitHub:** https://github.com/AlexDesperate
