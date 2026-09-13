@@ -1,3 +1,3 @@
 # rsschool-cv
-[Ссылка на моё CV](https://AlexDesperate.github.io/rsschool-cv/cv)
-[Ссылка на моё CV](https://AlexDesperate.github.io/rsschool-cv/)
+[CV в формате Markdown](https://alexdesperate.github.io/rsschool-cv/cv)
+[Свёрстанное CV](alexdesperate.github.io/rsschool-cv/)
