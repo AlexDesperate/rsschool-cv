@@ -1,3 +1,3 @@
 # rsschool-cv
-[CV в формате Markdown](https://alexdesperate.github.io/rsschool-cv/cv)
+[CV в формате Markdown](alexdesperate.github.io/rsschool-cv/cv)
 [Свёрстанное CV](alexdesperate.github.io/rsschool-cv/)
